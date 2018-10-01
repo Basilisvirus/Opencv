@@ -4,21 +4,21 @@ Opencv complete mini tasks
 
 To run the code provided, i reccomend use the software i did.
 Windows 10, pycharm IDE (from jetbrains -its free for college students-), install these packages (within the IDE):
-argapse
-cycler
-future
-imutils
-kiwisolver
-matplotlib
-numpy
-opencv-contrib-python
-opencv-python
-pip
-pyparsing
-python-dateutil
-pytz
-setuptools
-six
+argapse,
+cycler,
+future,
+imutils,
+kiwisolver,
+matplotlib,
+numpy,
+opencv-contrib-python,
+opencv-python,
+pip,
+pyparsing,
+python-dateutil,
+pytz,
+setuptools,
+six.
 ========================
 
 It always helps looking on a WELL DONE tutorial.
